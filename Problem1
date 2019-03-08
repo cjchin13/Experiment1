@@ -1,0 +1,153 @@
+#include <iostream>
+#include <conio.h>
+#include <iomanip>
+
+using namespace std;
+
+int main()
+{
+
+	double ticketPrice, numberOfTicketsSold, totalSale, priceOfBoxTicket, priceOfSidelineTicket, priceOfPremiumTicket, priceOfGeneralAdmissionTicket;
+
+	cout << "Game1" << endl;
+	cout << " " << endl;
+	cout << "BoxTicketPrice" << endl;
+	cout << "101.00" << endl;
+	cout << "numberOfTicketsSold" << endl;
+	cin >> numberOfTicketsSold;
+	cout << "totalSale" << ' ' << "=" << ' ';
+	cout << setprecision(3) << 101.00 * numberOfTicketsSold << endl;
+	cout << " " << endl;
+
+	cout << "SidelineTicketPrice" << endl;
+	cout << "201.00" << endl;
+	cout << "numberOfTicketsSold" << endl;
+	cin >> numberOfTicketsSold;
+	cout << "totalSale" << ' ' << "=" << ' ';
+	cout << setprecision(3) << 201.00 * numberOfTicketsSold << endl;
+	cout << " " << endl;
+	
+	cout << "PremiumTicketPrice" << endl;
+	cout << "501.00" << endl;
+	cout << "numberOfTicketsSold" << endl;
+	cin >> numberOfTicketsSold;
+	cout << "totalSale" << ' ' << "=" << ' ';
+	cout << setprecision(3) << 501.00 * numberOfTicketsSold << endl;
+	cout << " " << endl;
+	
+	cout << "GenAdTicketPrice" << endl;
+	cout << "51.00" << endl;
+	cout << "numberOfTicketsSold" << endl;
+	cin >> numberOfTicketsSold;
+	cout << "totalSale" << ' ' << "=" << ' ';
+	cout << setprecision(3) << 51.00 * numberOfTicketsSold << endl;
+	cout << " " << endl;
+	
+	cout << " " << endl;
+	cout << "Game2" << endl;
+	cout << " " << endl;
+	cout << "BoxTicketPrice" << endl;
+	cout << "102.00" << endl;
+	cout << "numberOfTicketsSold" << endl;
+	cin >> numberOfTicketsSold;
+	cout << "totalSale" << ' ' << "=" << ' ';
+	cout << setprecision(3) << 102.00 * numberOfTicketsSold << endl;
+	cout << " " << endl;
+
+	cout << "SidelineTicketPrice" << endl;
+	cout << "202.00" << endl;
+	cout << "numberOfTicketsSold" << endl;
+	cin >> numberOfTicketsSold;
+	cout << "totalSale" << ' ' << "=" << ' ';
+	cout << setprecision(3) << 202.00 * numberOfTicketsSold << endl;
+	cout << " " << endl;
+	
+	cout << "PremiumTicketPrice" << endl;
+	cout << "502.00" << endl;
+	cout << "numberOfTicketsSold" << endl;
+	cin >> numberOfTicketsSold;
+	cout << "totalSale" << ' ' << "=" << ' ';
+	cout << setprecision(3) << 502.00 * numberOfTicketsSold << endl;
+	cout << " " << endl;
+	
+	cout << "GenAdTicketPrice" << endl;
+	cout << "52.00" << endl;
+	cout << "numberOfTicketsSold" << endl;
+	cin >> numberOfTicketsSold;
+	cout << "totalSale" << ' ' << "=" << ' ';
+	cout << setprecision(3) << 52.00 * numberOfTicketsSold << endl;
+	cout << " " << endl;
+	
+	cout << " " << endl;
+	cout << "Game3" << endl;
+	cout << " " << endl;
+	cout << "BoxTicketPrice" << endl;
+	cout << "103.00" << endl;
+	cout << "numberOfTicketsSold" << endl;
+	cin >> numberOfTicketsSold;
+	cout << "totalSale" << ' ' << "=" << ' ';
+	cout << setprecision(3) << 103.00 * numberOfTicketsSold << endl;
+	cout << " " << endl;
+
+	cout << "SidelineTicketPrice" << endl;
+	cout << "203.00" << endl;
+	cout << "numberOfTicketsSold" << endl;
+	cin >> numberOfTicketsSold;
+	cout << "totalSale" << ' ' << "=" << ' ';
+	cout << setprecision(3) << 203.00 * numberOfTicketsSold << endl;
+	cout << " " << endl;
+	
+	cout << "PremiumTicketPrice" << endl;
+	cout << "503.00" << endl;
+	cout << "numberOfTicketsSold" << endl;
+	cin >> numberOfTicketsSold;
+	cout << "totalSale" << ' ' << "=" << ' ';
+	cout << setprecision(3) << 503.00 * numberOfTicketsSold << endl;
+	cout << " " << endl;
+	
+	cout << "GenAdTicketPrice" << endl;
+	cout << "53.00" << endl;
+	cout << "numberOfTicketsSold" << endl;
+	cin >> numberOfTicketsSold;
+	cout << "totalSale" << ' ' << "=" << ' ';
+	cout << setprecision(3) << 53.00 * numberOfTicketsSold << endl;
+	cout << " " << endl;
+
+	cout << " " << endl;
+	cout << "Game4" << endl;
+	cout << " " << endl;
+	cout << "BoxTicketPrice" << endl;
+	cout << "104.00" << endl;
+	cout << "numberOfTicketsSold" << endl;
+	cin >> numberOfTicketsSold;
+	cout << "totalSale" << ' ' << "=" << ' ';
+	cout << setprecision(3) << 104.00 * numberOfTicketsSold << endl;
+	cout << " " << endl;
+
+	cout << "SidelineTicketPrice" << endl;
+	cout << "204.00" << endl;
+	cout << "numberOfTicketsSold" << endl;
+	cin >> numberOfTicketsSold;
+	cout << "totalSale" << ' ' << "=" << ' ';
+	cout << setprecision(3) << 204.00 * numberOfTicketsSold << endl;
+	cout << " " << endl;
+	
+	cout << "PremiumTicketPrice" << endl;
+	cout << "504.00" << endl;
+	cout << "numberOfTicketsSold" << endl;
+	cin >> numberOfTicketsSold;
+	cout << "totalSale" << ' ' << "=" << ' ';
+	cout << setprecision(3) << 504.00 * numberOfTicketsSold << endl;
+	cout << " " << endl;
+	
+	cout << "GenAdTicketPrice" << endl;
+	cout << "54.00" << endl;
+	cout << "numberOfTicketsSold" << endl;
+	cin >> numberOfTicketsSold;
+	cout << "totalSale" << ' ' << "=" << ' ';
+	cout << setprecision(3) << 54.00 * numberOfTicketsSold << endl;
+	cout << " " << endl;
+
+	_getch();
+	return 0;
+}
